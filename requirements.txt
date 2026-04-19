@@ -1,6 +1,9 @@
-tensorflow
+tensorflow==2.20.0
 pandas
 scikit-learn
 matplotlib
 numpy
 seaborn
+ipympl 
+ipywidgets
+tensorboard
